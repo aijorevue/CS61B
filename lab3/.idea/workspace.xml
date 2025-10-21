@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9b81ee5-199e-43e5-bd3c-97b7e75c7c71" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arithmetic/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arithmetic/ArithmeticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flik/Flik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flik/HorribleSteve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntList/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntList/IntListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/Arithmetic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/ArithmeticTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/Flik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/HorribleSteve.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/IntList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/IntListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="34MDKkwL6Ba82gPi4k9xw3h0OyP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ArithmeticTest.testSum">
+    <configuration name="ArithmeticTest.testProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArithmeticTest" />
+      <option name="METHOD_NAME" value="testProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticTest.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArithmeticTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArithmeticTest.testSum" />
+        <item itemvalue="JUnit.ArithmeticTest.testProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e9b81ee5-199e-43e5-bd3c-97b7e75c7c71" name="更改" comment="" />
+      <created>1761014488121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761014488121</updated>
+    </task>
+    <servers />
+  </component>
+</project>
