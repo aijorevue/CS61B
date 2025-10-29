@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public interface CharacterComparator<T> {
+    public boolean equalChars(char x,char y);
 
-public class CharacterComparator {
 }
